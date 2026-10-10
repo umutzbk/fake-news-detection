@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+xgboost
+seaborn
+matplotlib
+nltk
+wordcloud
+kagglehub
+ydata-profiling
+transformers
+datasets
+torch
+scipy
+jupyter
